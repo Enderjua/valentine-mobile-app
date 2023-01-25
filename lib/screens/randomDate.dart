@@ -12,21 +12,21 @@ class RandomDate extends StatefulWidget {
 class _RandomDateState extends State<RandomDate>
     with SingleTickerProviderStateMixin {
   List<String> numbers = [
-    "9",
-    "14",
-    "20",
-    "18",
-    "12",
-    "16",
+    "x",
+    "y",
+    "z",
+    "d",
+    "v",
+    "f",
   ];
 
   List<String> descs = [
-    "Doğum günümü kutladığın o an <3",
-    "Birlikte geçirdiğimiz ilk sevgililer günü <3",
-    "Seni öptüğüm ve sarıldığım ilk gün <3",
-    "Bu uygulamaya başladığım ilk gün <3",
-    "Tekrar barıştığımız gün <3",
-    "Ellerini tuttuğum ilk gün <3",
+    "a",
+    "b",
+    "c",
+    "d",
+    "f",
+    "g",
   ];
 
   String number = "";
