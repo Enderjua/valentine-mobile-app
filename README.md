@@ -20,20 +20,20 @@ The application is developed using the Flutter framework and is designed to be e
 2. Clone the app:
 
 ```bash
-git clone [git@github.com:dominicarrojado/hashtag-interactive-valentines-day-card-app.git](https://github.com/Enderjua/valentine-mobile-app.git)
+git clone https://github.com/Enderjua/valentine-mobile-app.git
 ```
 
 3. Install dependencies:
 
 ```bash
-cd hashtag-interactive-valentines-day-card-app
-yarn install
+cd valentine-mobile-app
+flutter pub get
 ```
 
 4. Run the development server:
 
 ```bash
-yarn dev
+flutter run
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
