@@ -33,35 +33,44 @@ flutter pub get
 4. Run the development server:
 
 ```bash
-flutter run
+flutter run -d web --web-port 3000
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Running All Tests
+## Running with Mobile
 
 ```bash
-yarn test
+flutter run -d emulator_id
 ```
 
-## Running Tests (Watch)
+## Running Tests (Debug)
 
 ```bash
-yarn test:watch
+flutter run --debug
 ```
 
-## Build For Production (Static)
+## Things to Pay Attention to
 
-1. Build and generate static files:
+1. Open `main.dart` and change the application name.
 
-```bash
-yarn build
-yarn export
-```
+2. Open `homePage.dart` and change the photos/poetry lines.
 
-2. The `out` directory can be served by any static hosting service or CDN.
+3. Open `goOrWent.dart` and change the background photo.
+
+4. Open `randomDate.dart` and change the special days and add meanings.
+
+5. Open `onceFinish.dart` and change the gratitude.
+
+6. Open `hahaNotFinish.dart` and change the song that will play in the background.
+
+If you have any concerns or unclear places, please reach me out at enderjua@gmail.com! Wishing you happy returns, a year full of Science, Technology and Flutter! (of course with your loved one by your side.)
+
+## Coming Soon
+
+In the future, you won't need to go through the code line by line to make changes. I am working on something to make this easier! It will be available here soon.
 
 ## VSCode Extensions
 
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+- [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
