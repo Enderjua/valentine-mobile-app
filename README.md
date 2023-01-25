@@ -2,7 +2,7 @@
 
 ![CI/CD](https://github.com/dominicarrojado/hashtag-interactive-valentines-day-card-app/workflows/CI/CD/badge.svg) [![codecov](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app/branch/develop/graph/badge.svg?token=V5QRH2QTM4)](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app)
 
-A Valentine's day card app built with [Next.js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/).
+Valentine's Day application with [Flutter](https://flutter.dev/) + [Dart](https://www.dart.dev/).
 
 ## Quick Start
 
