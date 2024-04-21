@@ -1,3 +1,5 @@
+güncelleme21.04.2024->manitadan 1 yıl 1 ay önce ayrıldık uygulamaya gelecek yenilikler yattı gençler
+(ağlama belirtisi)
 # Valentine Mobile App
 
 ![CI/CD](https://github.com/dominicarrojado/hashtag-interactive-valentines-day-card-app/workflows/CI/CD/badge.svg) [![codecov](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app/branch/develop/graph/badge.svg?token=V5QRH2QTM4)](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app)
@@ -70,8 +72,6 @@ If you have any concerns or unclear places, please reach me out at enderjua@gmai
 
 In the future, you won't need to go through the code line by line to make changes. I am working on something to make this easier! It will be available here soon.
 
-güncelleme21.04.2024->manitadan 1 yıl 1 ay önce ayrıldık uygulamaya gelecek yenilikler yattı gençler
-(ağlama belirtisi)
 
 ## VSCode Extensions
 
