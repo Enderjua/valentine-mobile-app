@@ -70,7 +70,7 @@ If you have any concerns or unclear places, please reach me out at enderjua@gmai
 
 In the future, you won't need to go through the code line by line to make changes. I am working on something to make this easier! It will be available here soon.
 
-güncelleme21.04.2024->manitadan 1 yıl 1 ay önce ayrıldık güncelleme yattı gençler
+güncelleme21.04.2024->manitadan 1 yıl 1 ay önce ayrıldık uygulamaya gelecek yenilikler yattı gençler
 
 ## VSCode Extensions
 
