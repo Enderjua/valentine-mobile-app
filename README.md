@@ -1,5 +1,4 @@
-güncelleme21.04.2024->manitadan 1 yıl 1 ay önce ayrıldık uygulamaya gelecek yenilikler yattı gençler
-(ağlama belirtisi)
+güncelleme08.06.2024->bence bu sefer ki beni çok seviyor. güncelleme yolda!
 # Valentine Mobile App
 
 ![CI/CD](https://github.com/dominicarrojado/hashtag-interactive-valentines-day-card-app/workflows/CI/CD/badge.svg) [![codecov](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app/branch/develop/graph/badge.svg?token=V5QRH2QTM4)](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app)
