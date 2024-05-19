@@ -1,4 +1,4 @@
-import 'package:app/screens/onceFinish.dart';
+import 'package:valentine_mobile_app/screens/lastPage.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
 import 'dart:async';

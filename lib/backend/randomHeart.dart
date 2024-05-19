@@ -65,23 +65,4 @@ class RandomParticleBehaviour extends ParticleBehaviour {
     p.dy = dirY / mag * speed;
   }
 
-  @override
-  void onOptionsUpdate(int particleCount, Size size) {
-    final particles = <Particle>[];
-    for (var i = 0; i < particleCount; i++) {
-      final position = Offset(
-        random.nextDouble() * size.width,
-        random.nextDouble() * size.height,
-      );
-      final scale = random.nextDouble();
-      final particle = Particle(
-        position: position,
-        child: Transform.scale(
-          scale: scale,
-          child: Image.asset('assets/heart.png'),
-        ),
-      );
-      particles.add(particle);
-    }
-  }
 }

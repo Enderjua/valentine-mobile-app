@@ -1,6 +1,4 @@
 import 'dart:async';
-import 'package:app/screens/finishPage.dart';
-import 'package:app/screens/goOrWent.dart';
 
 import 'screens/homePage.dart';
 import 'package:flutter/material.dart';

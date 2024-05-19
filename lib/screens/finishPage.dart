@@ -1,7 +1,8 @@
-import 'package:app/screens/hahaNotFinish.dart';
 import 'package:flutter/material.dart';
 import 'dart:io' show exit;
 import 'dart:async';
+
+import 'package:valentine_mobile_app/screens/leave.dart';
 
 class MyPainter extends CustomPainter {
   // The color of the heart

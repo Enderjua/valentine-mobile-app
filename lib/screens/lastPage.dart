@@ -1,5 +1,5 @@
-import 'package:app/screens/finishPage.dart';
-import 'package:app/screens/randomDate.dart';
+import 'package:valentine_mobile_app/screens/finishPage.dart';
+import 'package:valentine_mobile_app/screens/randomDate.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
 import 'package:animated_background/animated_background.dart';
@@ -126,7 +126,7 @@ class _OnceFinishState extends State<OnceFinish>
                   children: <Widget>[
                     Padding(
                       padding: EdgeInsets.only(right: 10.0),
-                      child: RaisedButton(
+                      child: ElevatedButton(
                         child: Text("Özel gün çevir"),
                         onPressed: () {
                           Navigator.pushReplacement(
@@ -140,7 +140,7 @@ class _OnceFinishState extends State<OnceFinish>
                     ),
                     Padding(
                       padding: EdgeInsets.only(right: 10.0),
-                      child: RaisedButton(
+                      child: ElevatedButton(
                         child: Text("Devam Et"),
                         onPressed: () {
                           Navigator.pushReplacement(

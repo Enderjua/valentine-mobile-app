@@ -1,5 +1,5 @@
-import 'package:app/screens/homePage.dart';
-import 'package:app/screens/randomDate.dart';
+import 'package:valentine_mobile_app/screens/homePage.dart';
+import 'package:valentine_mobile_app/screens/randomDate.dart';
 import 'package:flutter/material.dart';
 import 'package:animated_background/animated_background.dart';
 
@@ -67,7 +67,7 @@ class _GoOrWentState extends State<GoOrWent>
                 Padding(
                   padding: EdgeInsets.only(right: 10),
                   child: Center(
-                    child: RaisedButton(
+                    child: ElevatedButton(
                       child: Text("Geri Dön"),
                       onPressed: () {
                         Navigator.pushReplacement(
@@ -84,7 +84,7 @@ class _GoOrWentState extends State<GoOrWent>
                 Padding(
                   padding: EdgeInsets.only(right: 10),
                   child: Center(
-                    child: RaisedButton(
+                    child: ElevatedButton(
                       child: Text("Devam Et"),
                       onPressed: () {
                         Navigator.pushReplacement(

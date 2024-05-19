@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:animated_background/animated_background.dart';
-import 'package:app/backend/randomEmoji.dart';
-import 'package:app/main.dart';
-import 'package:app/screens/goOrWent.dart';
+import 'package:valentine_mobile_app/backend/randomEmoji.dart';
+import 'package:valentine_mobile_app/main.dart';
+import 'package:valentine_mobile_app/screens/goOrWent.dart';
 import 'dart:math';
 import 'package:flutter/material.dart';
 
