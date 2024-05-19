@@ -1,4 +1,4 @@
-güncelleme08.06.2024->bu seferki farklı, beni çok seviyor inandım. güncelleme yolda!
+ÇOK ÖZLEDİM SENİ BİRGÜL.
 # Valentine Mobile App
 
 ![CI/CD](https://github.com/dominicarrojado/hashtag-interactive-valentines-day-card-app/workflows/CI/CD/badge.svg) [![codecov](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app/branch/develop/graph/badge.svg?token=V5QRH2QTM4)](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app)
